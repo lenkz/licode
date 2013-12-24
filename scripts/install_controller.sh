@@ -2,6 +2,7 @@
 ./licode/scripts/installUbuntuDeps_controller.sh
 ./licode/scripts/installNuve.sh
 ./licode/scripts/installBasicExample.sh
+./licode/scripts/installErizo.sh
 ./licode/scripts/initLicode_controller.sh
 ./licode/scripts/initBasicExample.sh
 
