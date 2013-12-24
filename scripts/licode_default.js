@@ -5,7 +5,8 @@ config.nuve = {};
 config.erizoController = {};
 config.cloudProvider = {};
 config.erizo = {};
-
+// PLEASE ASSIGN public ip
+config.publicIP = ''
 config.rabbit.host = 'localhost';
 config.rabbit.port = 5672;
 
