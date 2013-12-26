@@ -28,8 +28,8 @@ config.erizoController.turnServer.url = '';
 config.erizoController.turnServer.username = '';
 config.erizoController.turnServer.password = '';
 
-config.erizoController.warning_n_rooms = 15;
-config.erizoController.limit_n_rooms = 20;
+config.erizoController.warning_n_rooms = 2;
+config.erizoController.limit_n_rooms = 2;
 config.erizoController.interval_time_keepAlive = 1000;
 
 //STUN server IP address and port to be used by the server.
